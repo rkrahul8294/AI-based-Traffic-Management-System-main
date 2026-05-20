@@ -35,3 +35,13 @@ The Visualization Module uses the Pygame library to provide a graphical user int
 
 ![3](https://github.com/prabhjotschugh/AI-based-Traffic-Management-System/assets/64200536/bf03086c-1582-4ac9-8beb-6bb76b3947b5)
 
+<img width="1907" height="965" alt="image" src="https://github.com/user-attachments/assets/6514d768-0db1-4798-889d-06fe03b88f4c" />
+
+<img width="1895" height="965" alt="image" src="https://github.com/user-attachments/assets/ece1d6cf-1046-4e3e-bc0e-fe853e30e3b3" />
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/d4aaa7ec-4512-4379-bfb0-a220b55b9fce" />
+<img width="1883" height="908" alt="image" src="https://github.com/user-attachments/assets/907701bf-951d-4253-86df-7d213d6e331a" />
+
+
+
+
+
